@@ -1,16 +1,21 @@
-## Hi there 👋
+# Victor U. Edimeh
 
-<!--
-**Victoredimeh/Victoredimeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Machine Learning Engineer & Cybersecurity Specialist
 
-Here are some ideas to get you started:
+MSc in Information Technology with specialization in agricultural predictive modeling and IoT security. 
+I develop resource-efficient ML solutions and research cybersecurity frameworks for IoT systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- Machine learning for agricultural yield prediction
+- Security frameworks for IoT devices
+- Feature selection techniques for more efficient models
+
+### 💻 Technical Skills
+- **Languages**: Python, R, SQL, Bash
+- **ML/Data Science**: TensorFlow, PyTorch, Scikit-learn, XGBoost
+- **Security Tools**: Wireshark, Metasploit, NMAP
+- **Other**: Git, Docker, Linux
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/victoredimeh)
+- [Email](vedimeh49@gmail.com)
